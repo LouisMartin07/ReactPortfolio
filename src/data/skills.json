@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Excel",
+    "imageSrc": "skills/excel.svg"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.svg"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.svg"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.svg"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgresql.svg"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.svg"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "skills/django.svg"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.svg"
+  },
+  {
+    "title": "Flask",
+    "imageSrc": "skills/flask.svg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Student",
+    "organisation": "Code Platoon",
+    "startDate": "Jan, 2024",
+    "endDate": "July, 2024",
+    "experiences": ["Worked in Full Stack", "Created a multitude of projects"],
+    "imageSrc": "history/school.svg"
+  },
+  {
+    "role": "Operations Manager",
+    "organisation": "U.S.M.C",
+    "startDate": "July, 2021",
+    "endDate": "Jan, 2024",
+    "experiences": ["Worked on Excel/Teams/MSHARP", "streamlined datamanagement and screening processes"],
+    "imageSrc": "history/operations.svg"
+  },
+  {
+    "role": "Crewmaster",
+    "organisation": "U.S.M.C",
+    "startDate": "Sept, 2015",
+    "endDate": "Jan, 2024",
+    "experiences": ["Worked on KC-130T/J", "1700 flight hours/various instructor quals"],
+    "imageSrc": "history/airplane.svg"
+  }
+]
